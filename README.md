@@ -21,6 +21,6 @@
     <li>Yasal zorunluluklar nedeniyle bazı işlem kayıtları <strong>90 gün</strong> süreyle saklanabilir, ardından tamamen silinir.</li>
   </ul>
 
-  <p>Daha fazla bilgi için <a href="mailto:destek@rawtowncoffee.com">destek@rawtowncoffee.com</a> adresinden bizimle iletişime geçebilirsiniz.</p>
+  <p>Daha fazla bilgi için <a href="mailto:destek@kafeindeposu.com">destek@rawtowncoffee.com</a> adresinden bizimle iletişime geçebilirsiniz.</p>
 </body>
 </html>
