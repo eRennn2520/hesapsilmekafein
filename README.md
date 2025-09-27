@@ -10,7 +10,7 @@
 
   <h2>Hesap Silme Adımları</h2>
   <ol>
-    <li><a href="mailto:destek@rawtowncoffee.com">destek@rawtowncoffee.com</a> adresine, kayıtlı olduğunuz e-posta ile “Hesap Silme Talebi” başlıklı bir e-posta gönderin.</li>
+    <li><a href="mailto:destek@kafeindeposu.com">destek@kafeindeposu.com</a> adresine, kayıtlı olduğunuz e-posta ile “Hesap Silme Talebi” başlıklı bir e-posta gönderin.</li>
     <li>E-postada adınızı ve hesapla ilişkili e-posta adresinizi belirtin.</li>
     <li>Talebiniz alındıktan sonra hesabınız 7 iş günü içinde silinecektir.</li>
   </ol>
